@@ -11,4 +11,4 @@ Our areas of expertise include:
 - **Quantum Computing**: We explore efficient algorithms for quantum computing, focusing on solving discrete optimization problems like QUBOs.
 We share our findings through [publications](https://www.inf.uni-hamburg.de/en/inst/ab/ml/publications.html), code, and [web services](https://www.inf.uni-hamburg.de/en/inst/ab/ml/projects.html).
 
-Find out more on the [here](https://www.inf.uni-hamburg.de/en/inst/ab/ml.html).
+Find out more [here](https://www.inf.uni-hamburg.de/en/inst/ab/ml.html).
